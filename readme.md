@@ -20,12 +20,10 @@ The application leverages Markov Chains to predict the probability of a word bas
 1. **Clone the repository:**
    ```bash
    https://github.com/mnidevanshu/PRODIGY_GA_03.git
-
 ```
  2. **Run the application:**
    ```bash
    python main.py
-   
-   ```
+    ```
 ## 📝 Future Scope
 Enhancing the model to use higher-order Markov Chains (predicting based on the previous 2 or 3 words) to improve grammatical coherence.
