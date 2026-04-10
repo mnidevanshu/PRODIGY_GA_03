@@ -25,6 +25,5 @@ The application leverages Markov Chains to predict the probability of a word bas
    ```bash
    main.py
 
- ```
 ## 📝 Future Scope
 Enhancing the model to use higher-order Markov Chains (predicting based on the previous 2 or 3 words) to improve grammatical coherence.
