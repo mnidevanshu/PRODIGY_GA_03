@@ -21,9 +21,9 @@ The application leverages Markov Chains to predict the probability of a word bas
    ```bash
    https://github.com/mnidevanshu/PRODIGY_GA_03.git
 
- 2. **Run the application:**
+2. **Run the application:**
    ```bash
-   python main.py
+   main.py
 
  ```
 ## 📝 Future Scope
